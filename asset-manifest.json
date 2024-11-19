@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2532bbf4.css",
+    "main.js": "/static/js/main.21b1c266.js",
+    "static/media/review3.png": "/static/media/review3.1449696e5903accd115b.png",
+    "static/media/review1.png": "/static/media/review1.d1730d1e8e4ea27ba9e5.png",
+    "static/media/review2.png": "/static/media/review2.08d5127287dcf1ca7dd7.png",
+    "static/media/tgbot.png": "/static/media/tgbot.58ddec5a2835ce17e9c9.png",
+    "static/media/bot.png": "/static/media/bot.cf40ec7fe6211ecd337b.png",
+    "static/media/our_mission.jpg": "/static/media/our_mission.de2878f612acec2120ed.jpg",
+    "static/media/our_goal.jpg": "/static/media/our_goal.c05fb55815474d44498a.jpg",
+    "static/media/what_we_do.jpg": "/static/media/what_we_do.0113abe10f85a8ed0a76.jpg",
+    "static/media/website.jpg": "/static/media/website.66db48ba3cc416f4d179.jpg",
+    "static/media/logo_black.png": "/static/media/logo_black.783af9d3a81b63d25c92.png",
+    "index.html": "/index.html",
+    "main.2532bbf4.css.map": "/static/css/main.2532bbf4.css.map",
+    "main.21b1c266.js.map": "/static/js/main.21b1c266.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2532bbf4.css",
+    "static/js/main.21b1c266.js"
+  ]
+}
